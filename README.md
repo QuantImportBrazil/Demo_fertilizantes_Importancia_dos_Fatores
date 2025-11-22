@@ -12,7 +12,7 @@
 
 O aprendizado de máquina (ML) não só emite as previsões, mas também nos permite ranquear a importância dos fatores que as afetam.
 
-Para demonstrar essa capacidade, dentre as **previsões realizadas**, escolhemos aquela que apresentou a maior variação em relação ao ano anterior:  
+Para demonstrar essa capacidade, selecionamos a previsão que apresentou a maior variação em relação ao ano anterior:
 
 * Produto SH4 3102 — Município de Rondonópolis-MT — de 09/2025 para 09/2026.
 
