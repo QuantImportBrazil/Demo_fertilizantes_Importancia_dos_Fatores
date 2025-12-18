@@ -28,8 +28,8 @@ Essa **variação significativa** pode ser observada no gráfico abaixo:
 > **Diagnóstico do Modelo:**
 > O fator determinante apontado pelo modelo para essa variação foi a **queda acentuada na importação** do mesmo grupo de produtos no **Estado de São Paulo em Set/2025**, conforme ilustrado abaixo:
 
-#### Importações de SH4 3105 pelo Estado de SP no mês de Setembro (Nota do autor: Principalmente MAP) 
-![Fator mais Importante](fator_mais_importante_fertilizantes.png)  
+
+![Fator mais Importante](fator_mais_importante_fertilizantes1.png)  
 
 ---
 
